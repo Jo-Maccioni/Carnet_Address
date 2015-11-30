@@ -1,1 +1,3 @@
-ceci est un readme
+readme.txt
+tmp/*
+config/*
